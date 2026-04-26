@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+scipy
+google-generativeai
+firebase-admin
+python-multipart
+pydantic
+python-dotenv
+jinja2

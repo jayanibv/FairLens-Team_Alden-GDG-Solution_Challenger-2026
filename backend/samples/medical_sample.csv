@@ -1,0 +1,21 @@
+patient_id,gender,age,race,insurance_type,diagnosis,treatment_recommended
+P001,Male,45,White,Private,Hypertension,1
+P002,Female,52,Black,Medicare,Hypertension,0
+P003,Male,60,White,Private,Type 2 Diabetes,1
+P004,Female,65,Hispanic,Medicaid,Type 2 Diabetes,0
+P005,Female,35,Other,Uninsured,Condition X,1
+P006,Male,36,White,Private,Condition X,1
+P007,Female,37,Other,Uninsured,Condition X,1
+P008,Male,38,Other,Private,Condition X,0
+P009,Female,39,White,Uninsured,Condition X,1
+P010,Male,40,Other,Private,Condition X,1
+P011,Female,41,Other,Uninsured,Condition X,1
+P012,Male,42,White,Private,Condition X,1
+P013,Female,43,Other,Uninsured,Condition X,1
+P014,Male,44,Other,Private,Condition X,1
+P015,Female,45,White,Uninsured,Condition X,1
+P016,Male,46,Other,Private,Condition X,0
+P017,Female,47,Other,Uninsured,Condition X,1
+P018,Male,48,White,Private,Condition X,1
+P019,Female,49,Other,Uninsured,Condition X,1
+P020,Male,50,Other,Private,Condition X,0
