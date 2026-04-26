@@ -41,7 +41,7 @@ FairLens makes that invisible bias visible, explainable, and fixable — before 
    - Install dependencies: `pip install -r requirements.txt`
    - Copy .env.example to .env and add your keys:
        - GEMINI_API_KEY=your_key_here
-       - FIREBASE_PROJECT_ID=your_project_id
+       - FIREBASE_KEY_PATH=path_to_json_file_with_credentials
    - Run: `python main.py`
 2. **Frontend**:
    - Install dependencies: `npm install`
