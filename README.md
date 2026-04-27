@@ -64,7 +64,7 @@ FairLens makes that invisible bias visible, explainable, and fixable — before 
 👉 https://gdg-fairlens.web.app
 
 ## 🎥 Demo Video
-👉 https://youtu.be/U6gAFo4yzN4?si=vOCmR-TjkS8aCD-W
+👉 [https://youtu.be/U6gAFo4yzN4?si=vOCmR-TjkS8aCD-W](https://youtu.be/ZTHH02KNSbg?si=yJ_UroSzm99ZtqkF)
 
 ## 👥 Team
 Built for GDG Solution Challenge 2026 - Team Alden
